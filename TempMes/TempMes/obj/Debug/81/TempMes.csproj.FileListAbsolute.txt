@@ -1,0 +1,502 @@
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\TempMes.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\TempMes.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\com.companyname.TempMes.apk
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\com.companyname.TempMes-Signed.apk
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\Mono.Android.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\mscorlib.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\System.Core.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\System.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\System.Numerics.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\System.Numerics.Vectors.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\System.Xml.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\System.Net.Http.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\Mono.Security.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\Xamarin.Essentials.dll.mdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\build.props
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\adb.props
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\TempMes.csprojAssemblyReference.cache
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\resourcepaths.cache
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res.flag
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\TempMes.csproj.CoreCompileInputs.cache
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\TempMes.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\TempMes.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\bin\com.companyname.TempMes.apk
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\layout\main_menu.xml
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\layout\useraccount.xml
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\values\colors.xml
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\values\dimens.xml
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\values\strings.xml
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\values\styles.xml
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\menu\menu_main.xml
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\drawable\buttoncreateaccountstyle.xml
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\drawable\buttondialogcreateaccountstyle.xml
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\drawable\buttonexitstyle.xml
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\drawable\buttonloginstyle.xml
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\drawable\dialogloginbuttonstyle.xml
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\drawable\progressbarstyle.xml
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\layout\data_row.xml
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\layout\logindialog.xml
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\res\layout\createaccountdialog.xml
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\R.cs.flag
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\R.txt
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\uploadflags.txt
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\resolvedassemblies.hash
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\TempMes.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Java.Interop.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Mono.Android.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\mscorlib.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Core.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Numerics.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Numerics.Vectors.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Xml.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.Annotations.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.Compat.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.Core.UI.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.Design.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.Fragment.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.Transition.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Essentials.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Net.Http.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Runtime.Serialization.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.ServiceModel.Internals.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Mono.Security.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\TempMes.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Numerics.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Numerics.Vectors.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Essentials.dll.mdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\link.flag
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Java.Interop.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Mono.Android.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Mono.Security.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\mscorlib.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\mscorlib.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Core.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Core.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Net.Http.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Numerics.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Numerics.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Numerics.Vectors.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Numerics.Vectors.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Xml.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Xml.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\TempMes.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\TempMes.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Essentials.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Essentials.dll.mdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\stamp\_CopyIntermediateAssemblies.stamp
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\stamp\_CopyMdbFiles.stamp
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\stamp\_CopyPdbFiles.stamp
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Runtime.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\System.IO.Compression.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\System.Data.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\System.Transactions.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\System.Web.Services.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\System.Xml.Linq.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\bin\Debug\System.Security.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\BouncyCastle.Crypto.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Google.Protobuf.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\MySql.Data.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\Newtonsoft.Json.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Configuration.ConfigurationManager.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.IO.Compression.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Security.AccessControl.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Security.Permissions.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Security.Principal.Windows.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Runtime.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.ComponentModel.Composition.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.IO.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Threading.Tasks.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Text.Encoding.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Diagnostics.Debug.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Collections.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Text.RegularExpressions.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Reflection.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.ObjectModel.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Runtime.Extensions.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Globalization.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Linq.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Threading.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Reflection.Extensions.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\netstandard.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Data.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Transactions.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Web.Services.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Xml.Linq.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Text.Encoding.CodePages.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Security.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.IO.Compression.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Data.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Transactions.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Web.Services.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\linksrc\System.Security.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\BouncyCastle.Crypto.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Google.Protobuf.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\MySql.Data.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\netstandard.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\Newtonsoft.Json.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Collections.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Configuration.ConfigurationManager.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Data.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Data.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Diagnostics.Debug.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Globalization.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.IO.Compression.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.IO.Compression.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.IO.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Linq.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.ObjectModel.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Reflection.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Reflection.Extensions.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Runtime.Extensions.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Security.AccessControl.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Security.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Security.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Security.Permissions.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Security.Principal.Windows.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Text.Encoding.CodePages.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Text.Encoding.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Text.RegularExpressions.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Threading.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Threading.Tasks.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Transactions.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Transactions.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Web.Services.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Web.Services.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Xml.Linq.dll
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\android\assets\machine.config
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\stamp\_CompileToDalvik.stamp
+C:\Users\szymi\OneDrive\Pulpit\layout test\TempMes\TempMes\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\TempMes.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\TempMes.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\com.companyname.TempMes.apk
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\com.companyname.TempMes-Signed.apk
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\Mono.Android.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\mscorlib.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\System.Core.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\System.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\System.IO.Compression.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\System.Net.Http.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\System.Numerics.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\System.Numerics.Vectors.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\System.Xml.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\System.Data.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\System.Transactions.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\System.Web.Services.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\System.Xml.Linq.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\System.Security.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\Mono.Security.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\bin\Debug\Xamarin.Essentials.dll.mdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\build.props
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\adb.props
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\TempMes.csprojAssemblyReference.cache
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\resourcepaths.cache
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res.flag
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\TempMes.csproj.CoreCompileInputs.cache
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\TempMes.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\TempMes.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\bin\com.companyname.TempMes.apk
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\layout\main_menu.xml
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\layout\useraccount.xml
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\values\colors.xml
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\values\dimens.xml
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\values\strings.xml
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\values\styles.xml
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\menu\menu_main.xml
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\drawable\buttoncreateaccountstyle.xml
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\drawable\buttondialogcreateaccountstyle.xml
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\drawable\buttonexitstyle.xml
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\drawable\buttonloginstyle.xml
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\drawable\dialogloginbuttonstyle.xml
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\drawable\progressbarstyle.xml
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\layout\data_row.xml
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\layout\logindialog.xml
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\res\layout\createaccountdialog.xml
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\R.cs.flag
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\R.txt
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\uploadflags.txt
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\resolvedassemblies.hash
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\TempMes.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\BouncyCastle.Crypto.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Google.Protobuf.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Java.Interop.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Mono.Android.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\mscorlib.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\MySql.Data.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Newtonsoft.Json.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Configuration.ConfigurationManager.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Core.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.IO.Compression.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Net.Http.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Numerics.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Numerics.Vectors.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Security.AccessControl.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Security.Permissions.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Security.Principal.Windows.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Xml.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.Annotations.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.Compat.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.Core.UI.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.Design.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.Fragment.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.Transition.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Essentials.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Runtime.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.ComponentModel.Composition.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.IO.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Threading.Tasks.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Text.Encoding.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Diagnostics.Debug.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Collections.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Text.RegularExpressions.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Reflection.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.ObjectModel.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Runtime.Extensions.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Globalization.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Linq.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Threading.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Reflection.Extensions.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Runtime.Serialization.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.ServiceModel.Internals.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\netstandard.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Data.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Transactions.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Web.Services.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Xml.Linq.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Text.Encoding.CodePages.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Security.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Mono.Security.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\TempMes.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.IO.Compression.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Numerics.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Numerics.Vectors.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Data.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Transactions.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Web.Services.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\System.Security.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\linksrc\Xamarin.Essentials.dll.mdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\link.flag
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\BouncyCastle.Crypto.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Google.Protobuf.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Java.Interop.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Mono.Android.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Mono.Security.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\mscorlib.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\mscorlib.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\MySql.Data.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\netstandard.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Newtonsoft.Json.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Collections.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Configuration.ConfigurationManager.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Core.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Core.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Data.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Data.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Diagnostics.Debug.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Globalization.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.IO.Compression.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.IO.Compression.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.IO.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Linq.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Net.Http.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Numerics.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Numerics.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Numerics.Vectors.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Numerics.Vectors.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.ObjectModel.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Reflection.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Reflection.Extensions.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Runtime.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Runtime.Extensions.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Security.AccessControl.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Security.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Security.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Security.Permissions.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Security.Principal.Windows.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Text.Encoding.CodePages.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Text.Encoding.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Text.RegularExpressions.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Threading.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Threading.Tasks.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Transactions.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Transactions.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Web.Services.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Web.Services.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Xml.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Xml.Linq.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\System.Xml.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\TempMes.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\TempMes.pdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Essentials.dll
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\Xamarin.Essentials.dll.mdb
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\stamp\_CopyIntermediateAssemblies.stamp
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\stamp\_CopyMdbFiles.stamp
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\stamp\_CopyPdbFiles.stamp
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\android\assets\machine.config
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\stamp\_CompileToDalvik.stamp
+C:\Users\szymi\Desktop\projekt_mobilne\projekt_mobilne\TempMes\TempMes\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent">
+    <Button
+        android:text="Login"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:textSize="35sp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:background="@drawable/buttonloginstyle"
+        android:id="@+id/btnLogin"
+    />
+    <Button
+        android:text="Create Account"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:textSize="35sp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="40dp"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:background="@drawable/buttoncreateaccountstyle"
+        android:id="@+id/btnCreateAccount"
+    />
+    <Button
+        android:text="Exit"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:textSize="35sp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="40dp"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:background="@drawable/buttonexitstyle"
+        android:id="@+id/btnExit"
+    />
+</LinearLayout>

@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\szymi\\Desktop\\projekt_mobilne\\projekt_mobilne\\TempMes\\TempMes\\TempMes.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\szymi\\Desktop\\projekt_mobilne\\projekt_mobilne\\TempMes\\TempMes\\TempMes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\szymi\\Desktop\\projekt_mobilne\\projekt_mobilne\\TempMes\\TempMes\\TempMes.csproj",
+        "projectName": "TempMes",
+        "projectPath": "C:\\Users\\szymi\\Desktop\\projekt_mobilne\\projekt_mobilne\\TempMes\\TempMes\\TempMes.csproj",
+        "packagesPath": "C:\\Users\\szymi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\szymi\\Desktop\\projekt_mobilne\\projekt_mobilne\\TempMes\\TempMes\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\szymi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid81"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid81": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid81": {
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
